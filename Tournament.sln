@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament.Domain", "Tournament.Domain\Tournament.Domain.csproj", "{8AD8420A-0D9C-4DF1-98B4-30E0BADC50B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournaments.Test", "Tournaments.Test\Tournaments.Test.csproj", "{F45D812E-B2D7-45BD-BAF4-D45D8065F3EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD8420A-0D9C-4DF1-98B4-30E0BADC50B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD8420A-0D9C-4DF1-98B4-30E0BADC50B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD8420A-0D9C-4DF1-98B4-30E0BADC50B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD8420A-0D9C-4DF1-98B4-30E0BADC50B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45D812E-B2D7-45BD-BAF4-D45D8065F3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45D812E-B2D7-45BD-BAF4-D45D8065F3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45D812E-B2D7-45BD-BAF4-D45D8065F3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45D812E-B2D7-45BD-BAF4-D45D8065F3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1073D303-5D50-4AFC-AB12-8322CE1D79F2}
+	EndGlobalSection
+EndGlobal
